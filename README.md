@@ -1,11 +1,10 @@
 # URI-CSC-492-Final-Project-2026
 
+## Analysis of: AttackBench: Evaluating Gradient-based Attacks for Adversarial Examples
 Javon Jennings \
 4/29/2026 \
 URI CSC 492 \
-Final Project \
-
-## Analysis of: AttackBench: Evaluating Gradient-based Attacks for Adversarial Examples
+Final Project 
 
 ## Step by Step Guide
 
