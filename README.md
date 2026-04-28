@@ -7,9 +7,16 @@ URI CSC 492 \
 Final Project 
 
 Student anaysis of \
-"Practical Evaluation of Adversarial Robustness via Adaptive Auto Attack" \
-By Ye Liu, Yaya Cheng, Lianli Gao, Xianglong Liu, Qilong Zhang, Jingkuan Song \
-CVPR 2022 
+@inproceedings{cina2025attackbench,
+  title={Attackbench: Evaluating gradient-based attacks for adversarial examples},
+  author={Cin{\`a}, Antonio Emanuele and Rony, J{\'e}r{\^o}me and Pintor, Maura and Demetrio, Luca and Demontis, Ambra and Biggio, Battista and Ayed, Ismail Ben and Roli, Fabio},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={3},
+  pages={2600--2608},
+  year={2025},
+  DOI={10.1609/aaai.v39i3.32263}
+}
 
 ## Step by Step Guide
 
