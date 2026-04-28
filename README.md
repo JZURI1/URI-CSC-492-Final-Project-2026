@@ -19,12 +19,27 @@ Student anaysis of \
 }
 
 ## Step by Step Guide
+1. Activate Unity \
+ssh unity \
+request GPU \
+
+2. Activate models \
+module load gcc/11.2.0 \
+module load cuda/11.8 \
+module load anaconda3/2023.09
+
 
 ## Software Installation
+VS Code with Python Installed 
+Access to Unity for GPU 
+Install Miniconda 
+
 
 ## Models
 
 ## System Requirements
+32 GB Ram Unity
+
 
 ## Contact
 For questions about the project or this repository email javon_jennings@uri.edu
